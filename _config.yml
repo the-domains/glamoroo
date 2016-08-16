@@ -1,0 +1,14 @@
+layout_spectrum: 0.213802644982934
+typography_spectrum: 0.663141273194924
+color:
+  brandStrength: 0.3236202597618103
+  lightness: 0.8418727796524763
+  saturation: 0.7871438546571881
+  rhythmicContrast: 0.36387445661239326
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: Glamoroo
